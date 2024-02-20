@@ -1,0 +1,31 @@
+body{
+    padding: 50px;
+}
+
+.a, .b{
+font-size: 25px;
+position: relative;
+left: 25%;
+top: 50px;
+}
+.custColor, .randColor{
+    font-size: 20px;
+    position: relative;
+    left: 31%;
+    top: 80px;
+}
+.c, .d{
+    font-size: 20px;
+position: relative;
+left: 35%;
+top: 120px;
+}
+.img{
+    position: relative;
+    left: 30%;
+    top: 160px;
+    max-width: 40%;
+    max-height: 40%;
+    min-width: 40%;
+    min-height: 40%;
+}
